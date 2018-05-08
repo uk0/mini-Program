@@ -1,0 +1,7 @@
+<!--pages/nb/nbLatest/nble.wxml-->
+<button bindtap='autoStart'>激活</button>
+<button bindtap='down'>降锁</button>
+
+<button bindtap='up'>升锁</button>
+
+<button bindtap='closeConn'>closeConn</button>
